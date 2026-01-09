@@ -1,6 +1,9 @@
 # 🏥 Preditor de Risco de Obesidade
 
-Aplicação web desenvolvida com Streamlit que utiliza Machine Learning para avaliar o risco de obesidade com base em informações pessoais, hábitos alimentares e estilo de vida.
+Aplicação web desenvolvida com Streamlit que utiliza Machine Learning (Regressão Logística) para avaliar o risco de obesidade com base em informações pessoais, hábitos alimentares e estilo de vida.
+
+🌐 **[Acesse a aplicação online](https://fase4-data-analytics-obesity.streamlit.app/)**
+
 
 ## 📋 Sobre o Projeto
 
@@ -149,6 +152,10 @@ O modelo foi desenvolvido seguindo as etapas:
 5. **Avaliação**: Seleção do melhor modelo baseado em métricas de desempenho
 
 ## 👨‍💻 Autor
+
+Grupo 206
+Nicole Tometich
+Giovanni Gerodo
 
 Desenvolvido como parte do Pós-Graduação em Data Analytics - FIAP
 Fase 4 - Data Visualization e Deploy

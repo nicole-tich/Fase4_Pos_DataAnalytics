@@ -268,5 +268,6 @@ st.markdown('''
     <p>Os resultados são baseados em análise estatística e não substituem avaliação médica profissional</p>
     <p>Criado por Nicole Tometich e Giovanni Gerodo como entrega do Tech Challenge final da Fase 4 - Data viz and production models</p>
     <p>Pós graduação em Data Analytics FIAP</p>
+    <p>🔗 <a href="https://github.com/nicole-tich/Fase4_Pos_DataAnalytics" target="_blank">Repositório GitHub do Projeto</a></p>
 </div>
 ''', unsafe_allow_html=True)
